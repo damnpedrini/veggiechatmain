@@ -119,6 +119,10 @@ h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
   font-weight: 600;
   line-height: 1.2;
 }
+.navbar-brand img {
+  margin-right: 10px; /* Adiciona espaço à direita da imagem */
+  vertical-align: middle; /* Alinha a imagem verticalmente ao centro */
+}
 
 h1, .h1 {
   font-size: calc(1.375rem + 1.5vw);
